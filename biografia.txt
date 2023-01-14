@@ -1,0 +1,3 @@
+Este es un pequeño archivo de texto para probar el funcionamiento de Git como parte de un curso de Platzi. 
+
+Estoy aprendiendo!!!! ahre 
