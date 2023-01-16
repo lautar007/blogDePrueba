@@ -3,3 +3,5 @@ Este es un pequeño archivo de texto para probar el funcionamiento de Git como p
 Estoy aprendiendo!!!! ahre 
 
 Hoy hablaremos de la vida de Lauchita
+
+Ahora estamos probando para saber si la conección con SSH funcionó
